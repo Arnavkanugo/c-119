@@ -1,0 +1,43 @@
+.heading{
+font-size: 25px;
+width:100%;
+margin:0px;
+box-shadow:5px 5px 5px darkcyan;
+
+}
+.hdiv{
+    float:none;
+    background:white;
+    padding:10px;
+    border: radius 20px;
+    color:black;
+    box-shadow: 5px 5px 5px darkblue;
+
+}
+.hdiv2{
+    font-size: 18px;
+}
+.p1{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px lightsalmon;
+}
+.p2{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px lightsalmon;
+}
+.copyright_footer{
+    position:fixed;
+    bottom: 10px;
+    text-align:center;
+    background-color: lightpink;
+    width:100%; 
+    color:lightslategray;
+    line-height: 2;
+    font-size: 20px ;
+}
+canvas{
+    border: 5px solid chocolate;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px cornsilk;
+    margin-top: 150px ;
+}
